@@ -1,13 +1,13 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: CV
+title: Panos Matsaridis' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Panos Matsaridis
+Software Engineer. Full stack Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:pmatsaridis@gmail.com">pmatsaridis@gmail.com</a>
+| <a href="https://github.com/pajos92/">GITHUB</a>
 </div>
 
 
