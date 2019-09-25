@@ -1,7 +1,3 @@
----
-layout: CV
-title: Panos Matsaridis' CV
----
 # Panos Matsaridis
 Software Engineer. Full stack Engineer.
 
